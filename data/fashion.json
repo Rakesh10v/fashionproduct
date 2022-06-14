@@ -1,0 +1,103 @@
+{
+    "message": "Display all records",
+    "result": [
+        {
+            "_id": "62a738a3015ef71ab835fa02",
+            "name": "Formal-Shirt",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.d1RKd5AhAbk2doIHhFe18gHaJ4&pid=Api&P=0&w=115&h=153",
+            "price": 1099,
+            "__v": 0
+        },
+        {
+            "_id": "62a73a67015ef71ab835fa08",
+            "name": "Kurthis",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.ITFWfKfJ4NtY-7VmTHG-nwHaJY&pid=Api&P=0&w=126&h=160",
+            "price": 400,
+            "__v": 0
+        },
+        {
+            "_id": "62a73a7b015ef71ab835fa0a",
+            "name": "Casual shirts",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.BXN9Hm7IPOWTWTKAqyyJWQHaHZ&pid=Api&P=0&w=161&h=161",
+            "price": 999,
+            "__v": 0
+        },
+        {
+            "_id": "62a73a88015ef71ab835fa0c",
+            "name": "Palazzo sets",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.xYfk7sAoO3scpEMHYY5g6gHaLH&pid=Api&P=0&w=101&h=152",
+            "price": 555,
+            "__v": 0
+        },
+        {
+            "_id": "62a73a99015ef71ab835fa0e",
+            "name": "T-shirts",
+            "image": "https://i.etsystatic.com/20753080/r/il/1bf2d5/3104380415/il_fullxfull.3104380415_cr9u.jpg",
+            "price": 799,
+            "__v": 0
+        },
+        {
+            "_id": "62a73ab0015ef71ab835fa10",
+            "name": "Ripped jeans",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.xk1_jUDXws2406LOoK0dwQHaJ2&pid=Api&P=0&w=114&h=152",
+            "price": 799,
+            "__v": 0
+        },
+        {
+            "_id": "62a73b5f015ef71ab835fa13",
+            "name": "Jeanpants",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.UDiwf1FSF517RXNmh2cy-QHaKl&pid=Api&P=0&w=123&h=177",
+            "price": 999,
+            "__v": 0
+        },
+        {
+            "_id": "62a73b74015ef71ab835fa15",
+            "name": "Crop-tops",
+            "image": "https://4.bp.blogspot.com/-E4R5rLOhf28/TgOfyOfcQLI/AAAAAAAAADo/O13CyvPRPLo/s1600/04K24YCOR_large.jpg  ",
+            "price": 355,
+            "__v": 0
+        },
+        {
+            "_id": "62a73b85015ef71ab835fa17",
+            "name": "Formal pants",
+            "image": "https://ae01.alicdn.com/kf/HTB1sbS2ij3z9KJjy0Fmq6xiwXXab/2018-Dress-Pants-Men-Pure-Color-Formal-Business-Suit-Pants-Trousers-Formal-Pants-for-Men.jpg",
+            "price": 899,
+            "__v": 0
+        },
+        {
+            "_id": "62a8143fbdd58abf847c402c",
+            "name": "Kurthas",
+            "image": "https://g3fashion.cdn.imgeng.in/upload/products/bright_yellow_mens_cotton_kurta_suit_15744156996493_2.jpg",
+            "price": 3000,
+            "__v": 0
+        },
+        {
+            "_id": "62a8153bbdd58abf847c4034",
+            "name": "Chudi",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.negbEi5CGlHU5gYT-HrlRQHaHa&pid=Api&P=0&w=166&h=166",
+            "price": 800,
+            "__v": 0
+        },
+        {
+            "_id": "62a8155cbdd58abf847c4036",
+            "name": "Tracks",
+            "image": "https://images.sellbrite.com/production/42402/1VWA0067-00S-GREEN/f6f5aadf-a2ae-5c24-b112-e3523b852477.jpg",
+            "price": 200,
+            "__v": 0
+        },
+        {
+            "_id": "62a81576bdd58abf847c4038",
+            "name": "Sarees",
+            "image": "https://4.imimg.com/data4/TU/XV/MY-10449174/gharchola-saree-500x500.png",
+            "price": 2000,
+            "__v": 0
+        },
+        {
+            "_id": "62a81587bdd58abf847c403a",
+            "name": "Maxis",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.vxSPD2IerEwGQ1kxp-uNZAHaJ4&pid=Api&P=0&w=121&h=161",
+            "price": 400,
+            "__v": 0
+        }
+    ]
+}
