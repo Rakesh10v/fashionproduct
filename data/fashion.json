@@ -1,6 +1,4 @@
-{
-    "message": "Display all records",
-    "result": [
+[
         {
             "_id": "62a738a3015ef71ab835fa02",
             "name": "Formal-Shirt",
@@ -99,5 +97,4 @@
             "price": 400,
             "__v": 0
         }
-    ]
-}
+]
